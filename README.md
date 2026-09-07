@@ -90,7 +90,7 @@ Web project developed for HidroLuz, a construction materials store.
 The project focuses on creating a digital presence for the business and
 presenting its products and services through a web interface.
 
-**Technologies:** HTML, CSS
+**Technologies:** HTML, CSs
 
 [View project](https://github.com/Paulo-HL/Site-Hidroluz)
 
@@ -105,7 +105,7 @@ for the company.
 
 **Technologies:** HTML, CSS
 
-[View project](https://github.com/Paulo-HL/R-CLEAN)
+[View project](https://github.com/Paulo-HL/R-CLEAN-)
 
 [Link site](https://rcleanlimpezas.com)
 
